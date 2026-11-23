@@ -1,3 +1,7 @@
 # Screen Time releases
 
-Downloads and changelog of Screen Time: https://e.checco.dev/screentime/
+Standalone and client-server app for managing displays and confidence monitors.
+
+View full changelog and download the latest macOS binary: https://checcoux.github.io/screentime-releases/
+
+This repository is auto-updated with the latest build available 
